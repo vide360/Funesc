@@ -1,0 +1,133 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_05D6FB20_0A6F_E800_4198_E9DB47B57620.source = https://funesc.pb.gov.br/conheca-a-funesc/copy_of_estacao_ciencia
+LinkBehaviour_1A20ACCF_0A7E_A800_4195_D24DC213AB72.source = https://www.facebook.com/funescgovpb
+LinkBehaviour_1A9A2B77_0A7D_A800_4194_AE3604134BB6.source = https://www.google.com/maps/place/Espa%C3%A7o+Cultural+Jos%C3%A9+Lins+do+R%C3%AAgo/@-7.1221253,-34.8456716,17z/data=!3m1!4b1!4m6!3m5!1s0x7acdd4a4e6c3417:0xf7ce5caf31171e3d!8m2!3d-7.1221253!4d-34.8430967!16s%2Fg%2F1228rvhf?entry=ttu
+LinkBehaviour_1F586E24_0F18_DD96_418E_020959975DEE.source = https://www.instagram.com/funescgovpb/
+
+## Media
+
+### Audio
+audiores_177ACB70_0F08_C440_419A_1DA262E08F06.mp3Url = media/audio_175AE0AC_0F07_C435_41A2_738FF6FAF764_pt.mp3
+
+### Title
+panorama_F1CA323D_FFCA_821E_41EB_29CE044716D5.label = Galeria 1
+panorama_F1CF8979_FFCA_8E19_41E8_6824B11B102C.label = Museu com tv
+photo_14363315_0EF8_465C_41A7_5B3860B88BE6.label = Pintura quadro
+panorama_F1D1431F_FFCA_8219_41D9_878D5C6653F3.label = Recepção
+video_EB24F1D6_FFCB_9E6B_41E3_1446EA974D68.label = Show da Cátia de França no Espaço Cultural 01 - Novembro Negro
+video_17BC7437_0F07_C323_41A2_1EC3F466A3CE.label = aaappp
+panorama_F1CE0998_FFC9_8EE7_41E4_8E30A7A91284.label = frente
+panorama_F19CB967_FFCE_8E29_41D5_7BF86413D72F.label = frente palco
+panorama_F1CCEDA3_FFC9_8629_41D1_5DE263471556.label = frente planetário
+panorama_F1CFAEC8_FFCA_8267_41E9_336773CCADB8.label = galeria 2
+panorama_144557C1_0036_8269_40D4_F2082F08D580.label = teatro arena
+video_ECD64B55_FFFB_8269_41EC_A0BA5E1A47EC.label = video revista
+
+### Video
+videolevel_0ECF38C8_1118_4234_41A7_674F33886FE8.posterURL = media/video_17BC7437_0F07_C323_41A2_1EC3F466A3CE_poster_pt.jpg
+videolevel_0ECF38C8_1118_4234_41A7_674F33886FE8.url = media/video_17BC7437_0F07_C323_41A2_1EC3F466A3CE_pt.mp4
+videolevel_0ECD684A_1118_4234_413C_4E0694C4E8CC.posterURL = media/video_EB24F1D6_FFCB_9E6B_41E3_1446EA974D68_poster_pt.jpg
+videolevel_0ECD684A_1118_4234_413C_4E0694C4E8CC.url = media/video_EB24F1D6_FFCB_9E6B_41E3_1446EA974D68_pt.mp4
+videolevel_0ECC77F9_1118_4DD4_41A3_A57059C23226.posterURL = media/video_ECD64B55_FFFB_8269_41EC_A0BA5E1A47EC_poster_pt.jpg
+videolevel_0ECC77F9_1118_4DD4_41A3_A57059C23226.url = media/video_ECD64B55_FFFB_8269_41EC_A0BA5E1A47EC_pt.mp4
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_138D25D7_0EF8_4DDC_41AB_6BC43773C325.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">É Hora de Brincar, 2004</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Abelardo da Hora</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Aguada de nanquim, c.i.d.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">acervo: informação não encontrada</SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_F3DB0529_FE5D_BB75_41C8_11DB8F1D2F83.label = AGENDA >
+Button_F3DC0537_FE5D_BB5D_41CF_9430B485DA0F.label = BACK
+Button_F3DDD53A_FE5D_BB57_41EE_24F3E0866F5F.label = BACK
+Button_F3DCA536_FE5D_BB5F_418F_55B5548DAB1A.label = BACK
+Button_F3DDA539_FE5D_BB55_41C6_72FAA07D48B1.label = BACK
+Button_F3DD3534_FE5D_BB53_41C3_55217FAB8FBC.label = BACK
+Button_F3DB5529_FE5D_BB75_41DB_A73C5292A05E.label = CINEMAS >
+Button_F3DA652A_FE5D_BB77_41E2_C2CB90A8FA3C.label = ESCOLA DE MÚSICA >
+Button_F3DC8533_FE5D_BB55_41B8_BD1791C47BBB.label = Garden
+Button_F3DB3529_FE5D_BB75_41EE_FE673E725221.pressedLabel = Inserdt Text
+Button_F3DCC537_FE5D_BB5D_41E3_7A65969CF2FF.label = Lorem Ipsum
+Button_F3DD6533_FE5D_BB55_41EC_E45B35900265.label = Lorem Ipsum
+Button_F3DD7538_FE5D_BB53_41C5_A43FB9B8EA52.label = Lorem Ipsum
+Button_F3DB9535_FE5D_BB5D_41EB_00AC6B789939.label = Lorem Ipsum
+Button_F3DB8535_FE5D_BB5D_41E6_B2C08B7E3FD9.label = Lorem Ipsum
+Button_F3DC7535_FE5D_BB5D_41E1_95B4E13C14FA.label = Lorem Ipsum
+Button_F3DC7535_FE5D_BB5D_41E1_95B4E13C14FA.pressedLabel = Lorem Ipsum
+Button_F3DC6535_FE5D_BB5D_41E6_A3CAC51FE66E.label = Lorem Ipsum
+Button_F3DC4535_FE5D_BB5D_41B3_5FB766F5B660.label = Lorem Ipsum
+Button_F3DD2538_FE5D_BB53_41E4_1D0C9F72A0BB.label = Lorem Ipsum
+Button_F3DC1535_FE5D_BB5D_41D7_CCFB2921D000.label = Lorem Ipsum
+Button_F3DC0535_FE5D_BB5D_41E8_645A782D0851.label = Lorem Ipsum
+Button_F3DCE535_FE5D_BB5D_41A6_9FAB9C80C6A2.label = Lorem Ipsum
+Button_F3DCD536_FE5D_BB5F_41E8_C6B72AA1FBC4.label = Lorem Ipsum
+Button_F3DDC538_FE5D_BB53_41D0_3E51EF61F27D.label = Lorem Ipsum
+Button_F3DBF536_FE5D_BB5F_41E7_4B72ECCA34E7.label = Lorem Ipsum
+Button_F3DBE536_FE5D_BB5F_41EE_2F1A95F44B73.label = Lorem Ipsum
+Button_F3DBC536_FE5D_BB5F_41E3_89E9BCC5A304.label = Lorem Ipsum
+Button_F3DBC536_FE5D_BB5F_41E3_89E9BCC5A304.pressedLabel = Lorem Ipsum
+Button_F3DBB537_FE5D_BB5D_41AF_1ABDEAE5A8FB.label = Lorem Ipsum
+Button_F3DBA537_FE5D_BB5D_41E6_2F6FEDB80718.label = Lorem Ipsum
+Button_F3DE3539_FE5D_BB55_41EB_E1E815CEED3A.label = Lorem Ipsum
+Button_F3DB8537_FE5D_BB5D_41E0_E7D4A3BCD52F.label = Lorem Ipsum
+Button_F3DC6537_FE5D_BB5D_41DA_57D562C1196C.label = Lorem Ipsum
+Button_F3DC4537_FE5D_BB5D_41E2_A4190ED143FF.label = Lorem Ipsum
+Button_F3DC3537_FE5D_BB5D_41EB_5198653BFF6C.label = Lorem Ipsum
+Button_F3DCA539_FE5D_BB55_41D9_31C6D8D80F3A.label = Lorem Ipsum
+Button_F3DC9539_FE5D_BB55_41B0_6D31FF35EF92.label = Lorem Ipsum
+Button_F3DCA537_FE5D_BB5D_41C8_AE5F548E4AC7.label = Lorem Ipsum
+Button_F3DC9538_FE5D_BB53_41D8_936F18D4F97B.label = Lorem Ipsum
+Button_F3DC9538_FE5D_BB53_41D8_936F18D4F97B.pressedLabel = Lorem Ipsum
+Button_F3DC8538_FE5D_BB53_41E9_393FC9F02311.label = Lorem Ipsum
+Button_F3DD753A_FE5D_BB57_41CB_93FFD2D28309.label = Lorem Ipsum
+Button_F3DD553A_FE5D_BB57_41D1_2C8CE357B34B.label = Lorem Ipsum
+Button_F3DD4538_FE5D_BB53_41A2_B1CDD745B78C.label = Lorem Ipsum
+Button_F3DD453A_FE5D_BB57_41C3_4300AA71FE25.label = Lorem Ipsum
+Button_F3DDE538_FE5D_BB53_41D9_026EE2F78564.label = Lorem Ipsum
+Button_F3DED53B_FE5D_BB55_41D3_2B4CFB9411CE.label = Lorem Ipsum
+Button_F3DD153A_FE5D_BB57_41E9_8CB3EEA2944A.label = Lorem Ipsum
+Button_F3DE5539_FE5D_BB55_41ED_69E44453E5B0.label = Lorem Ipsum
+Button_F3DE4539_FE5D_BB55_41B7_60CE97C1E1E9.label = Lorem Ipsum
+Button_F3DD953A_FE5D_BB57_41E1_570E4624150E.label = Lorem Ipsum
+Button_F3DE3539_FE5D_BB55_41EB_E1E815CEED3A.pressedLabel = Lorem Ipsum
+Button_F3DD853A_FE5D_BB57_41CC_4819FC02AEDD.label = Lorem Ipsum
+Button_F3DE153B_FE5D_BB55_41BB_3A852F3DF9D2.label = Lorem Ipsum
+Button_F3DE453B_FE5D_BB55_41E9_7DF95DAF6E32.label = Lorem Ipsum
+Button_F3DEE53B_FE5D_BB55_41E6_7FFD44E78B29.label = Lorem Ipsum
+Button_F3DE653A_FE5D_BB57_41BA_B597E4FAD057.pressedLabel = Lorem Ipsum
+Button_F3DE653A_FE5D_BB57_41BA_B597E4FAD057.label = Lorem Ipsum
+Button_F3DE053B_FE5D_BB55_41DD_F1212F6A027B.label = Lorem Ipsum
+Button_F3DE553B_FE5D_BB55_41EB_E5E1EE519BC6.label = Lorem Ipsum
+Button_F3DC2535_FE5D_BB5D_41EF_0B6833FE9D02.label = Lorem ipsum
+Button_F3DE353B_FE5D_BB55_41EB_B075E47E8B7A.label = Lorem ipsum
+Button_F3DC853A_FE5D_BB57_41E3_DE52D96FA392.label = Lorem ipsum
+Button_F3DD5538_FE5D_BB53_41CF_03B56B5998C9.label = Lorem ipsum
+Button_F3DB9537_FE5D_BB5D_41DF_C7298DA538D3.label = Lorem ipsum
+Button_F3DB7529_FE5D_BB75_41ED_57D130763AC7.label = MUSEUS E GALERIAS >
+Button_F3DCB533_FE5D_BB55_41E4_42C9A6A346A9.label = Museu Abelardo da Hora
+Button_F3DC9533_FE5D_BB55_41EC_9027ECEF6E1D.label = Museu dois
+Button_F3DA452A_FE5D_BB77_41EC_0F49DCA4979F.label = PLANETÁRIO >
+Button_F3DB3529_FE5D_BB75_41EE_FE673E725221.label = TEATROS >
+Button_F3DBC531_FE5D_BB55_41E9_6001F671D9A2.label = Voltar
+
+### Image
+Image_F3DAD529_FE5D_BB75_41CE_04630B826D71.url = skin/Image_F3DAD529_FE5D_BB75_41CE_04630B826D71_pt.png
+
+### Multiline Text
+HTMLText_F3DAD52A_FE5D_BB77_41ED_7D882590D698.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = FUNESC
+
+### Title
+tour.name = FUNESC
